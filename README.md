@@ -1,2 +1,2 @@
 ## Oiii eu sou Cleiver!
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?CleiverCoelho=karanalpe&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?CleiverCoelho=anuraghazra)
