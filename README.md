@@ -23,6 +23,6 @@ I am a Full Stack developer student!
 
   ### You can also find me on LinkedIn:
 <a href="https://www.linkedin.com/in/cleiver-coelho-398a49211
-"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+"><img align="start" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
