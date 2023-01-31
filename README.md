@@ -5,9 +5,9 @@ I am a Full Stack developer student!
 
 :computer: Currently learning React.js
 
-⚠️ Electrical Engineering graduate student at UFMG.
+⚡ Electrical Engineering graduate student at UFMG.
 
-## ⚡ Technologies
+## ↕️ Technologies
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
