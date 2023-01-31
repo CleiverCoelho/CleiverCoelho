@@ -5,12 +5,13 @@ I am a Full Stack developer student!
 
 :computer: Currently learning React.js
 
-⚠️: Electrical Engineering graduate student at UFMG.
+⚠️ Electrical Engineering graduate student at UFMG.
 
 ### You can also find me on LinkedIn:
 <a href="https://www.linkedin.com/in/cleiver-coelho-398a49211
 "><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br>
 
 ## ⚡ Technologies
 
