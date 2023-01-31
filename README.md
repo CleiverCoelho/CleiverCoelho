@@ -7,12 +7,6 @@ I am a Full Stack developer student!
 
 ⚠️ Electrical Engineering graduate student at UFMG.
 
-### You can also find me on LinkedIn:
-<a href="https://www.linkedin.com/in/cleiver-coelho-398a49211
-"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br>
-
 ## ⚡ Technologies
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -25,3 +19,9 @@ I am a Full Stack developer student!
 
 <p align='start'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CleiverCoelho&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="light-city's github stats"/>
+
+  ### You can also find me on LinkedIn:
+<a href="https://www.linkedin.com/in/cleiver-coelho-398a49211
+"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br>
