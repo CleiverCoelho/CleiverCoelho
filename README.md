@@ -1,7 +1,7 @@
 ## Hey, i'm Cleiver!
 
 
-I am a Full Stack developer student!
+☕I am a Full Stack developer student!
 
 :computer: Currently learning React.js
 
