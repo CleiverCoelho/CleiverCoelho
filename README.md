@@ -3,11 +3,24 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Cpp" width="26px" src="https://www.google.com/search?q=c/c%2B%2B&client=firefox-b-d&sxsrf=AJOqlzX58awwz49M1UwNErms6ANQVNs5qA:1675203567802&tbm=isch&source=iu&ictx=1&vet=1&fir=SQ2M_m2NkVA4LM%252CbnoQF5njVnaw-M%252C%252Fm%252F0jgqg%253BzymKP_mqE1yu4M%252CoHhWsZt1h8rrdM%252C_%253BxmdIa9swaEU8eM%252C8QrLt7Eve6fxNM%252C_%253BuK8dERx1_CZE7M%252CLS1DTIZ6aiKDOM%252C_%253BcwtVEGw5WQ8SLM%252CCU9uGD9j-pijrM%252C_%253B_hl4IosM8ET8cM%252CdLCPbvw8pzOh0M%252C_&usg=AI4_-kSrEX9VZBJKZ9XKCT-jALv5eGzejA&sa=X&ved=2ahUKEwihg9fM6_L8AhUPr5UCHUzNDUoQ_B16BQiHARAB#imgrc=SQ2M_m2NkVA4LM" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+## ⚡ Technologies
+
+![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=light-city&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="light-city's github stats"/>
