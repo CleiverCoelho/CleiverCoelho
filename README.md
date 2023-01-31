@@ -1,8 +1,6 @@
 ## Hey, eu sou Cleiver!
 
 
-### Languages and Tools:
-
 ## ⚡ Technologies
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
