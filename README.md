@@ -3,7 +3,7 @@
 
 🇧🇷 I am a Full Stack developer student!
 
-:computer: Currently learning React.js
+:computer: Currently learning Node.js
 
 ⚡ Electrical Engineering graduate student at UFMG.
 
