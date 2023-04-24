@@ -20,6 +20,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats-pro.vercel.app/api?username=CleiverCoelho&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My github stats" />
+</a>
 
 <p align='start'>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF" alt="light-city's top langs"/>
