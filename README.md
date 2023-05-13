@@ -3,7 +3,7 @@
 
 🇧🇷 I am a Full Stack developer student!
 
-:computer: Currently learning Node.js and mongodb
+:computer: Currently SQL on Postgres
 
 ⚡ Electrical Engineering graduate student at UFMG.
 
