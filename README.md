@@ -31,9 +31,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-<!-- <a href="#">
-  <img align="center" src="https://github-readme-stats-pro.vercel.app/api?username=CleiverCoelho&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My github stats" />
-</a> -->
-
-<p align='start'>
+<div align='center'>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF" alt="light-city's top langs"/>
+    <img align="left" alt="João's GitHub Stats" src="https://github-readme-stats.vercel.app/api??username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF" alt="light-city's stats"/>
+<div>
