@@ -33,5 +33,5 @@
 
 <div align='center'>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF" alt="light-city's top langs"/>
-    <img align="left" alt="João's GitHub Stats" src="https://github-readme-stats.vercel.app/api??username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF" alt="light-city's stats"/>
+    <img align="left" alt="João's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF" alt="light-city's stats"/>
 <div>
