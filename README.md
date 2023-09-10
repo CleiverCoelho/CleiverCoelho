@@ -40,7 +40,8 @@
 
 
 <div display='flex' justifyContent='center' alignItems='center'>
-        <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CleiverCoelho&layout=compact&theme=transparent&background_color=#808080" alt="light-city's graph"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=CleiverCoelho&bg_color=071A2C&theme=transparent&include_all_commits=true" alt="light-city's stats"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverCoelho&bg_color=071A2C&theme=transparent&layout=compact&include_all_commits=true" alt="light-city's top langs"/>
+         <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CleiverCoelho&layout=compact&theme=transparent&background_color=#808080" alt="light-city's graph"/>
 </div>
 
