@@ -23,8 +23,10 @@
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PrismaORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nest](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -38,6 +40,7 @@
 
 
 <div align='center'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF&include_all_commits=true" alt="light-city's top langs"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF&include_all_commits=true" alt="light-city's top langs"/>
     <img align="left" alt="João's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF&include_all_commits=true" alt="light-city's stats"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CleiverCoelho" alt="light-city's top langs"/>
 <div>
