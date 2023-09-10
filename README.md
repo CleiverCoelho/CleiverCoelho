@@ -3,9 +3,9 @@
 
 🇧🇷 I am a Full Stack developer student!
 
-:computer: Currently learning Typescript!
+:computer: Currently learning Docker!
 
-⚡ Electrical Engineering graduate student at UFMG.
+⚡ Electrical Engineering undergraduate student at UFMG.
 
 ## ↕️ Technologies
 
