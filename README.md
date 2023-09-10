@@ -40,7 +40,11 @@
 
 
 <div align='center'>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF&include_all_commits=true" alt="light-city's top langs"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF&include_all_commits=true" alt="light-city's stats"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CleiverCoelho" alt="light-city's graph"/>
-<div>
+    <div align='left'>
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF&include_all_commits=true" alt="light-city's top langs"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF&include_all_commits=true" alt="light-city's stats"/>
+    </div>
+    <div align='right'>
+            <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CleiverCoelho" alt="light-city's graph"/>
+    </div>
+</div>
