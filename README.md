@@ -47,5 +47,7 @@
 
 # 
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CleiverCoelho&layout=compact&theme=transparent&background_color=#808080" alt="light-city's graph"/>
+<div align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CleiverCoelho&layout=compact&theme=transparent&background_color=#808080" alt="light-city's graph"/>
+</div>
 
