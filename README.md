@@ -40,11 +40,7 @@
 
 
 <div align='center' display='flex' justify-content='space-around'>
-    <div align='left'>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF&include_all_commits=true" alt="light-city's stats"/>
-    </div>
-    <div align='right'>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverCoelho&bg_color=071A2C&text_color=FFFFFF&include_all_commits=true" alt="light-city's top langs"/>
-    </div>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CleiverCoelho&theme=transparent&background_color=#808080" alt="light-city's graph"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=CleiverCoelho&bg_color=071A2C&theme=transparent&include_all_commits=true" alt="light-city's stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiverCoelho&bg_color=071A2C&theme=transparent&include_all_commits=true" alt="light-city's top langs"/>
 </div>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CleiverCoelho&theme=transparent&background_color=#808080" alt="light-city's graph"/>
