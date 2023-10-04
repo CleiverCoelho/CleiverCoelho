@@ -3,7 +3,7 @@
 
 🇧🇷 I am a Full Stack developer student!
 
-:computer: Currently learning Docker!
+:computer: Currently learning Java!
 
 ⚡ Electrical Engineering undergraduate student at UFMG.
 
