@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I'm+Cleiver+👋)](https://git.io/typing-svg)
 
 
-🇧🇷 I am a mobile developer!
-
-:computer: Currently learning Java!
+🇧🇷 I am a Android developer!
 
 ⚡ Electrical Engineering undergraduate student at UFMG.
 
