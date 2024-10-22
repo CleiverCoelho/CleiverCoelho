@@ -3,7 +3,7 @@
 
 🇧🇷 I am a Android developer!
 
-⚡ Electrical Engineering undergraduate student at UFMG.
+⚡ Computer Engineering undergraduate student at UFMG.
 
 ## ↕️ Technologies and Tools
 
